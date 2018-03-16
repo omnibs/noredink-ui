@@ -7,6 +7,7 @@
         "src"
     ],
     "exposed-modules": [
+        "Nri",
         "Nri.Ui.Alert.V1",
         "Nri.Ui.AssetPath",
         "Nri.Ui.BannerAlert.V1",
